@@ -7,12 +7,12 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[GitHub Profile] (https://github.com/haalbers)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[LinkedIn Profile] (https://www.linkedin.com/in/haley-albers-873376a5/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[Resume] (https://github.com/haalbers/liftoff-assignments/blob/master/C1-Online_Profiles/Haley%20Albers%20-%20Resume%20PDF.pdf)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
