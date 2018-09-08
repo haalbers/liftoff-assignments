@@ -7,5 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-[Capstone Presentation PDF]
-liftoff-assignments/P6-Project_Presentation/Capstone Presentation.pdf)
+[Capstone Presentation PDF](https://github.com/haalbers/liftoff-assignments/blob/master/P6-Project_Presentation/Capstone%20Presentation.pdf)
